@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions</title>
+
+    <?php  include 'includes/links.php' ?>
+</head>
+<body>
+
+    <?php  include 'includes/header.php' ?>
+
+    <section class="container my-4">
+    <h1>Terms and Conditions</h1>
+    <hr>
+
+
+
+
+<p><span style="font-weight: 400;">Welcome to carsd10! These Terms &amp; Conditions regulate your use of and access to our website and services. By using our platform, you agree to comply with the rules and guidelines outlined below.</span></p>
+
+
+<ol>
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Acceptance of Terms</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">By accessing carsd10 or using our towing services, you provide consent to comply with these Terms and Conditions.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Services Provided</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">carsd10 is committed to providing vehicle towing and roadside assistance throughout India 24*7. To request service, contact us on WhatsApp. However, the requests are entertained depending on your location, weather conditions, and the readiness of our partner network.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">User responsibilities</span></h3>
+</li>
+
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provide accurate location and contact information when requesting assistance.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ensure your vehicle is accessible and in a safe condition for towing.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not misuse the service or impersonate another individual when communicating with carsd10.</span></li>
+</ul>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Payments</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">Service charges will be clearly communicated to you before a towing vehicle is dispatched. Payments can be made via cash, UPI, or other mutually agreed-upon methods. Pricing may vary depending on your location and the type of vehicle involved.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Cancellation Policy</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">Cancellations may be subject to a fee to cover fuel and time expenses if made after the dispatch of the towing vehicle. For complete information, please refer to our Refund Policy.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Limitation of Liability</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">carsd10 should not be held liable for any indirect, incidental, or consequential damages arising from service delays, location-related challenges, or factors beyond our control, such as weather conditions or traffic disruptions.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Intellectual Property</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">All content on www.carsd10.com, including images, text, logos, and other materials, is the property of carsd10 and is protected by applicable copyright and trademark laws. Reproduction or use of any content without prior written permission is strictly prohibited.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Modifications</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">These Terms &amp; Conditions are subject to change without any prior notice. Keep visiting this page for the updated details. Your continued use of our site implies your acceptance of these revised terms.</span></p>
+
+
+<li style="font-weight: 400;">
+<h3 class="h5"><span style="font-weight: 400;">Contact Us</span></h3>
+</li>
+
+<p><span style="font-weight: 400;">For any queries regarding these Terms of Service, contact us at-</span></p>
+<p><span style="font-weight: 400;">Email: support@carsd10.com</span></p>
+
+</ol>
+
+</section>
+
+
+
+    <?php  include 'includes/footer.php' ?>
+
+</body>
+</html>

@@ -1,0 +1,337 @@
+ .bg-poster {
+     background-color: #0f4d6a;
+    color: white;
+    text-align: center;
+    padding: 6rem;}
+
+
+    .promo-img {
+      height: auto;
+      border-radius: 10px;
+      margin: 8px;
+      /* height: 400px !important;
+          width: 315px !important; */
+          height: 97px !important;
+    width: 394px !important;
+
+
+    }
+    .whatsapp-btn {
+     background: #0b5a0b;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 7px 29px;
+    border-radius: 1px;
+    transition: all 0.5s ease;
+    margin-top: 8px !important;
+    }
+    .whatsapp-btn:hover {
+     background-color: #fff;
+     border: 1px solid #0b5a0b;
+     color: #0b5a0b;
+     font-weight: 500;
+    }
+    .desc-text {
+     margin-top: -70px !important;
+    font-size: 38px;
+
+    }
+
+
+
+    .why-choose-us {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9fbfd;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.why-choose-us h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #111;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.feature-box {
+  background: #f1f1f8;
+  border-radius: 12px;
+  padding: 30px 20px;
+  width: 300px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-box:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.feature-box i {
+  font-size: 32px;
+  color: #0f4d6a;
+  margin-bottom: 16px;
+}
+
+.feature-box h3 {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.feature-box p {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+
+
+.service-coverage {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #fefefe;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.service-coverage h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.service-coverage p {
+  font-size: 1rem;
+  color: #555;
+  max-width: 720px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+
+.service-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  font-size: 1rem;
+  color: #fff;
+  background: linear-gradient(135deg, #0f4d6a, #0056b3);
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.4s ease;
+  box-shadow: 0 4px 14px rgba(0, 123, 255, 0.3);
+  font-weight: 600;
+}
+
+.service-btn:hover {
+  background: linear-gradient(135deg, #0056b3, #0f4d6a);
+  box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
+  transform: translateY(-2px);
+}
+
+
+.how-it-works {
+  text-align: center;
+  padding: 50px 20px; /* Slightly reduced top/bottom padding */
+  background-color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.how-it-works h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #111;
+  margin-bottom: 30px; 
+}
+
+.steps {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 24px; /* Reduced gap between cards */
+  margin-bottom: 20px; /* Less space below cards */
+}
+
+.step {
+  width: 350px;
+ padding: 38px 0px 43px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.03);
+}
+
+.step:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 128, 0, 0.15);
+}
+
+.step i {
+  font-size: 32px;
+  color: #0f4d6a;
+  margin-bottom: 12px; /* Reduced spacing under icon */
+}
+
+.step h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+.step p {
+  font-size: 0.9rem;
+  color: #444;
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* Call-to-action button */
+.cta-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, #145c7e, #0f4d6a);
+  color: #fff;
+  border-radius: 40px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 14px rgba(11, 90, 11, 0.25);
+}
+
+.cta-btn:hover {
+  background: linear-gradient(135deg, #0f4d6a, #145c7e);
+  transform: translateY(-2px);
+  box-shadow: 0 7px 20px rgba(11, 90, 11, 0.4);
+}
+
+
+
+.whatsapp-call{
+        display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background: #80808026;
+}
+
+
+
+
+
+/* Unique carsd10 Footer Styles */
+.carsd10-footer {
+  background: #f2f6fc;
+  font-family: 'Segoe UI', sans-serif;
+  color: #2c3e50;
+  /* padding: 3rem 1rem 1rem; */
+  box-shadow: inset 0 1px 0 #ddd;
+      margin-top: 4rem;
+}
+
+.carsd10-footer-top {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.carsd10-footer-top h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  color: #0a3d62;
+}
+
+.carsd10-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.carsd10-contact a {
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.carsd10-contact a:hover {
+  text-decoration: underline;
+}
+
+.carsd10-address,
+.carsd10-note {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  color: #4d5b6b;
+}
+
+.carsd10-footer-bottom {
+  background: #1a1a1a;
+  color: #ccc;
+  padding: 1rem;
+  text-align: center;
+  /* border-radius: 8px; */
+}
+
+.carsd10-footer-bottom p {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+}
+
+.carsd10-footer-bottom nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.carsd10-footer-bottom a {
+  color: #bfc9d1;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.carsd10-footer-bottom a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 576px) {
+  .carsd10-contact {
+    font-size: 1rem;
+  }
+
+  .carsd10-footer-bottom nav {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+}
+
+
+
+
+/* mob css */
+
+@media (max-width: 480px) {
+  .bg-poster {
+    background-color: #0f4d6a;
+    color: white;
+    text-align: center;
+    padding: 3rem;
+  }
+
+  .desc-text {
+          margin-top: -4px !important;
+        font-size: 31px;
+  }
+
+  .whatsapp-btn {
+    font-size: 19px !important;
+  }
+}
